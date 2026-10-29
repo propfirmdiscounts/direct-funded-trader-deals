@@ -64,4 +64,4 @@ This repository tracks all historical deals for **Direct Funded Trader** publish
 
 ---
 
-Last synced: 2026-10-29T02:05:02Z (auto, hourly)
+Last synced: 2026-10-29T06:30:55Z (auto, hourly)
