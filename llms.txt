@@ -1,0 +1,8 @@
+# Direct Funded Trader Discount Codes
+
+This dataset tracks historical deal observations for Direct Funded Trader from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (40%)
+Works any time on all Direct Funded Trader challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
