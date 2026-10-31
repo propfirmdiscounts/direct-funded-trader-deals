@@ -1,44 +1,66 @@
 ---
 license: other
+pretty_name: Direct Funded Trader Discount Code
 configs:
 - config_name: direct-funded-trader-deals
   data_files:
   - split: data
     path: datasets/direct-funded-trader-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - direct-funded-trader
 ---
 
-# Direct Funded Trader - Discount Codes & Deal History
+# Direct Funded Trader Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-26, Direct Funded Trader deals run up to 40% OFF with code PFD, which works any time — the newest is **50% off Fast Funding and Evaluation, 40% off Instant**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/direct-funded-trader/
+> Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
+>
+> — Direct Funded Trader, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/directfundedtrader.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-26
+- Trustpilot: 2.8/5 (233 reviews)
+- Activate: https://propfirmdiscount.com/go/directfundedtrader
+- Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **40% off** on Direct Funded Trader challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Direct Funded Trader evaluation accounts.
+## Current Direct Funded Trader deal: 50% off Fast Funding and Evaluation, 40% off Instant
+
+- Published: 2026-10-26
+- Offer ends: Limited time
+- Offer: 40% off
+- Scope: Instant Accounts, Fast Funding Accounts, Evaluation Accounts
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/
+
+## Direct Funded Trader discount code FAQ
+
+**What is the Direct Funded Trader discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 40% off Direct Funded Trader challenges and accounts.
+
+**Does the Direct Funded Trader discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Direct Funded Trader deal?**
+
+**50% off Fast Funding and Evaluation, 40% off Instant** — published 2026-10-26. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
-## Latest Deal
-
-### Direct Funded Trader - 50% off Fast Funding and Evaluation, 40% off Instant
-
-**Published:** 2026-10-26  
-**Offer ends:** Limited time  
-**Discount:** 40% off  
-**Scope:** Instant Accounts, Fast Funding Accounts, Evaluation Accounts  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **9**
 
@@ -68,19 +90,20 @@ Total deals tracked: **9**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Direct Funded Trader** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Direct Funded Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/direct-funded-trader/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
