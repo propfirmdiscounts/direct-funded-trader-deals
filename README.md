@@ -47,27 +47,27 @@ Total deals tracked: **9**
 
 ### 2026 (4 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-10-26 | 50% off Fast Funding and Evaluation, 40% off Instant | 40% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) |
-| 2026-10-05 | 50% Off 15K to 200K Evaluation Accounts | 50% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) |
-| 2026-09-26 | Half-Price Entry Fees for All Challenges | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) |
-| 2026-09-08 | 5K Evaluation Accounts Available for $5 Upfront Cost | Only $5 | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-10-26 | 50% off Fast Funding and Evaluation, 40% off Instant | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) |
+| 2026-10-05 | 50% Off 15K to 200K Evaluation Accounts | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) |
+| 2026-09-26 | Half-Price Entry Fees for All Challenges | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) |
+| 2026-09-08 | 5K Evaluation Accounts Available for $5 Upfront Cost | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) |
 
 ### 2025 (1 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-07-26 | 50% Off 15K to 200K Challenge Pricing | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-07-26 | 50% Off 15K to 200K Challenge Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k/) |
 
 ### 2024 (4 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2024-10-04 | Launch Deal: 10K Challenge for $27 Fixed Price | Only $27 | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-10k-challenge-27/) |
-| 2024-08-03 | 50% Off 15K to 200K Evaluation Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k-evaluations/) |
-| 2024-07-23 | $2.5K Challenge for $5 Entry Fee | Only $5 | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5-dollar-challenge/) |
-| 2024-07-16 | 50% Off All Evaluation Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2024-10-04 | Launch Deal: 10K Challenge for $27 Fixed Price | Only $27 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-10k-challenge-27/) |
+| 2024-08-03 | 50% Off 15K to 200K Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k-evaluations/) |
+| 2024-07-23 | $2.5K Challenge for $5 Entry Fee | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5-dollar-challenge/) |
+| 2024-07-16 | 50% Off All Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts/) |
 
 ---
 
@@ -94,6 +94,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
