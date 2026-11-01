@@ -1,6 +1,6 @@
 # Direct Funded Trader Discount Code
 
-As of 2026-10-26, Direct Funded Trader deals run up to 40% OFF with code PFD, which works any time — the newest is **50% off Fast Funding and Evaluation, 40% off Instant**.
+As of 2026-10-26, Direct Funded Trader deals run up to 40% OFF with code PFD, which works any time — the newest is 50% off Fast Funding and Evaluation, 40% off Instant.
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 >
