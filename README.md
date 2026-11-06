@@ -51,7 +51,7 @@ Total deals tracked: **10**
 |---|---|---|---|---|---|
 | 2026-11-05 | 100K 2-Step Evaluation for Only $99 | $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) |
 | 2026-10-26 | 50% off Fast Funding and Evaluation, 40% off Instant | 40% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) |
-| 2026-10-05 | 50% Off 15K to 200K Evaluation Accounts | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) |
+| 2026-10-05 | 50% Off 15K to 200K Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) |
 | 2026-09-26 | Half-Price Entry Fees for All Challenges | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) |
 | 2026-09-08 | 5K Evaluation Accounts Available for $5 Upfront Cost | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) |
 
