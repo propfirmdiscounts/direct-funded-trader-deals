@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: direct-funded-trader-discount-codes
+  HF_NAMESPACE: directfundedtrader
+  HF_REPO_NAME: direct-funded-trader-deals
   FIRM_SLUG: direct-funded-trader
   DEALSTORE_ID: 398
   FIRM_NAME: Direct Funded Trader
