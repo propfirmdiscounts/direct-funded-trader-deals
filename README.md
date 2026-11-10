@@ -10,7 +10,7 @@ As of 2026-11-05, Direct Funded Trader deals run up to 50% OFF with code PFD, wh
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Direct Funded Trader deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
-- Trustpilot: 2.7/5 (234 reviews)
+- Trustpilot: 2.8/5 (235 reviews)
 - Activate: https://propfirmdiscount.com/go/directfundedtrader
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
