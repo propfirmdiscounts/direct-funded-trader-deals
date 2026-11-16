@@ -1,6 +1,6 @@
 # Direct Funded Trader - Discount Codes & Deal History
 
-As of November 2026, Direct Funded Trader deals offer 50% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Direct Funded Trader discount code is PFD — 40% OFF, which can be applied on the checkout page anytime. The newest is "100K 2-Step Evaluation for Only $99 with code PFD".
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 >
@@ -11,11 +11,11 @@ As of November 2026, Direct Funded Trader deals offer 50% OFF with code PFD, whi
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
 - Trustpilot: [2.6/5 (236 reviews)](https://www.trustpilot.com/review/directfundedtrader.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/direct-funded-trader-deals](https://github.com/propfirmdiscounts/direct-funded-trader-deals)
-- Activate: [https://propfirmdiscount.com/go/directfundedtrader](https://propfirmdiscount.com/go/directfundedtrader)
-- Firm page: [https://propfirmdiscount.com/prop-firm/direct-funded-trader/](https://propfirmdiscount.com/prop-firm/direct-funded-trader/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Direct Funded Trader Deals Repository](https://github.com/propfirmdiscounts/direct-funded-trader-deals)
+- Activate: [Activate Direct Funded Trader Discount Code](https://propfirmdiscount.com/go/directfundedtrader)
+- Firm page: [Direct Funded Trader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/direct-funded-trader/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Direct Funded Trader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Direct Funded Trader deal: 100K 2-Step Evaluation for Only $99 with code PFD
 
@@ -24,7 +24,7 @@ As of November 2026, Direct Funded Trader deals offer 50% OFF with code PFD, whi
 - Offer: $99
 - Scope: The $100K 2-Step Evaluation Account
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/)
+- Deal page: [Direct Funded Trader Deal Page](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/)
 
 ## Direct Funded Trader discount code FAQ
 
@@ -77,9 +77,9 @@ Total deals tracked: **10**
 
 This repository mirrors every deal **Direct Funded Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/direct-funded-trader/](https://propfirmdiscount.com/prop-firm/direct-funded-trader/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Direct Funded Trader Profile](https://propfirmdiscount.com/prop-firm/direct-funded-trader/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/direct-funded-trader-deals.json`
 
@@ -122,4 +122,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
