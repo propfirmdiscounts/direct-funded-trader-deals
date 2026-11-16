@@ -1,6 +1,6 @@
 # Direct Funded Trader - Discount Codes & Deal History
 
-As of 2026-11, Direct Funded Trader deals run 50% OFF with code PFD, which works any time — the newest is 100K 2-Step Evaluation for Only $99.
+As of November 2026, Direct Funded Trader deals offer 50% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 >
