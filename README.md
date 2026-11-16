@@ -1,12 +1,12 @@
 # Direct Funded Trader Discount Code & Deal History
 
-As of November 2026, the verified Direct Funded Trader discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "100K 2-Step Evaluation for Only $99 with code PFD".
+As of November 2026, the verified Direct Funded Trader discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "100K 2-Step Evaluation for Only $99".
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 >
 > — Direct Funded Trader, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/directfundedtrader.com)
 
-- Code: PFD
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Discount: 50% off (what the code takes off the firm's newest deal; it applies to every Direct Funded Trader deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
@@ -17,13 +17,13 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Direct Funded Trader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Direct Funded Trader deal: 100K 2-Step Evaluation for Only $99 with code PFD
+## Latest Direct Funded Trader deal: 100K 2-Step Evaluation for Only $99
 
 - Published: 2026-11-05
 - Offer ends: Limited time
 - Offer: $99
 - Scope: The $100K 2-Step Evaluation Account
-- Code: PFD
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Direct Funded Trader Deal Page](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/)
 
 ## Direct Funded Trader Discount Code & Deals FAQ
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Direct Funded Trader deal?**
 
-**100K 2-Step Evaluation for Only $99 with code PFD** — published 2026-11-05. Offer ends: Limited time. The offer is $99.
+**100K 2-Step Evaluation for Only $99** — published 2026-11-05. Offer ends: Limited time. The offer is $99.
 
 ---
 
@@ -50,26 +50,26 @@ Total deals tracked: **10**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-05 | Direct Funded Trader: 100K 2-Step Evaluation for Only $99 with code PFD | $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) |
-| 2026-10-26 | Direct Funded Trader: 50% off Fast Funding and Evaluation, 40% off Instant with code PFD | 40% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) |
-| 2026-10-05 | Direct Funded Trader: 50% Off 15K to 200K Evaluation Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) |
-| 2026-09-26 | Direct Funded Trader: Half-Price Entry Fees for All Challenges with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) |
-| 2026-09-08 | Direct Funded Trader: 5K Evaluation Accounts Available for $5 Upfront Cost with code PFD | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) |
+| 2026-11-05 | Direct Funded Trader: 100K 2-Step Evaluation for Only $99 | $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) |
+| 2026-10-26 | Direct Funded Trader: 50% off Fast Funding and Evaluation, 40% off Instant | 40% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) |
+| 2026-10-05 | Direct Funded Trader: 50% Off 15K to 200K Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) |
+| 2026-09-26 | Direct Funded Trader: Half-Price Entry Fees for All Challenges | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) |
+| 2026-09-08 | Direct Funded Trader: 5K Evaluation Accounts Available for $5 Upfront Cost | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) |
 
 ### 2025 (1 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-07-26 | Direct Funded Trader: 50% Off 15K to 200K Challenge Pricing with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k/) |
+| 2025-07-26 | Direct Funded Trader: 50% Off 15K to 200K Challenge Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k/) |
 
 ### 2024 (4 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2024-10-04 | Direct Funded Trader: Launch Deal: 10K Challenge for $27 Fixed Price with code PFD | Only $27 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-10k-challenge-27/) |
-| 2024-08-03 | Direct Funded Trader: 50% Off 15K to 200K Evaluation Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k-evaluations/) |
-| 2024-07-23 | Direct Funded Trader: $2.5K Challenge for $5 Entry Fee with code PFD | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5-dollar-challenge/) |
-| 2024-07-16 | Direct Funded Trader: 50% Off All Evaluation Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts/) |
+| 2024-10-04 | Direct Funded Trader: Launch Deal: 10K Challenge for $27 Fixed Price | Only $27 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-10k-challenge-27/) |
+| 2024-08-03 | Direct Funded Trader: 50% Off 15K to 200K Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k-evaluations/) |
+| 2024-07-23 | Direct Funded Trader: $2.5K Challenge for $5 Entry Fee | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5-dollar-challenge/) |
+| 2024-07-16 | Direct Funded Trader: 50% Off All Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts/) |
 
 ---
 
