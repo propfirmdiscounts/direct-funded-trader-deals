@@ -1,0 +1,6 @@
+title: "Direct Funded Trader - Discount Codes & Deal History"
+description: "As of November 2026, Direct Funded Trader deals offer 50% OFF with code PFD, which can be applied on the checkout page anytime."
+url: "https://propfirmdiscounts.github.io"
+baseurl: "/direct-funded-trader-deals"
+plugins:
+  - jekyll-seo-tag
