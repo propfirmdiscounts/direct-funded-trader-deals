@@ -1,4 +1,4 @@
-# Direct Funded Trader - Discount Codes & Deal History
+# Direct Funded Trader Discount Code & Deal History
 
 As of November 2026, the verified Direct Funded Trader discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "100K 2-Step Evaluation for Only $99 with code PFD".
 
@@ -8,7 +8,7 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 
 - Code: PFD
 - Discount: 50% off (what the code takes off the firm's newest deal; it applies to every Direct Funded Trader deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
 - Trustpilot: [2.6/5 (236 reviews)](https://www.trustpilot.com/review/directfundedtrader.com)
 - GitHub repository: [Direct Funded Trader Deals Repository](https://github.com/propfirmdiscounts/direct-funded-trader-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Direct Funded Trader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Direct Funded Trader deal: 100K 2-Step Evaluation for Only $99 with code PFD
+## Latest Direct Funded Trader deal: 100K 2-Step Evaluation for Only $99 with code PFD
 
 - Published: 2026-11-05
 - Offer ends: Limited time
@@ -26,7 +26,7 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 - Code: PFD
 - Deal page: [Direct Funded Trader Deal Page](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/)
 
-## Direct Funded Trader discount code FAQ
+## Direct Funded Trader Discount Code & Deals FAQ
 
 **What is the Direct Funded Trader discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Direct Funded Trader Deal History
 
 Total deals tracked: **10**
 
@@ -73,7 +73,7 @@ Total deals tracked: **10**
 
 ---
 
-## About this repository
+## About the Direct Funded Trader Deals Dataset
 
 This repository mirrors every deal **Direct Funded Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -81,7 +81,7 @@ This repository mirrors every deal **Direct Funded Trader** has published on Pro
 - Prop firm profile: [Direct Funded Trader Profile](https://propfirmdiscount.com/prop-firm/direct-funded-trader/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/direct-funded-trader-deals.json`
+## Direct Funded Trader Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -113,13 +113,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
