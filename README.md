@@ -6,11 +6,11 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 >
 > — Direct Funded Trader, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/directfundedtrader.com)
 
-- Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Discount: 50% off (what the code takes off the firm's newest deal; it applies to every Direct Funded Trader deal, whatever form that deal is stated in)
+- Code: PFD
+- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
-- Trustpilot: [2.6/5 (236 reviews)](https://www.trustpilot.com/review/directfundedtrader.com)
+- Trustpilot: [2.7/5 (234 reviews)](https://www.trustpilot.com/review/directfundedtrader.com)
 - GitHub repository: [Direct Funded Trader Deals Repository](https://github.com/propfirmdiscounts/direct-funded-trader-deals)
 - Activate: [Activate Direct Funded Trader Discount Code](https://propfirmdiscount.com/go/directfundedtrader)
 - Firm page: [Direct Funded Trader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/direct-funded-trader/)
