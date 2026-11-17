@@ -1,4 +1,4 @@
-# Direct Funded Trader Discount Codes
+# Direct Funded Trader Discount Code & Deals History
 
 This dataset tracks historical deal observations for Direct Funded Trader from PropFirmDiscount.com.
 
