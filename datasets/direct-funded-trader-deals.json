@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13467,
+    "title": "Turbo Challenge at $0 Upfront",
+    "offer_type": "coupon",
+    "discount_value": "$0 Entry",
+    "scope": [
+      "Turbo Challenge, All Sizes"
+    ],
+    "date_published": "2026-11-24",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-24",
+    "post_url": "https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/",
+    "prop_firm": "Direct Funded Trader",
+    "prop_firm_slug": "direct-funded-trader",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/directfundedtrader",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/direct-funded-trader/"
+  },
+  {
     "deal_id": 13289,
     "title": "50% Off All Accounts",
     "offer_type": "coupon",

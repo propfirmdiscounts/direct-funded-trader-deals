@@ -1,6 +1,6 @@
 # Direct Funded Trader Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Direct Funded Trader discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "50% Off All Accounts".
+As of November 2026, the verified Direct Funded Trader discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "Turbo Challenge at $0 Upfront".
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 >
@@ -9,7 +9,7 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 - Code: PFD
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-19
+- Last deal published: 2026-11-24
 - Trustpilot: [2.6/5 (232 reviews)](https://www.trustpilot.com/review/directfundedtrader.com)
 - GitHub repository: [Direct Funded Trader Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/direct-funded-trader-deals)
 - Activate: [Activate Direct Funded Trader Discount Code](https://propfirmdiscount.com/go/directfundedtrader)
@@ -17,14 +17,14 @@ As of November 2026, the verified Direct Funded Trader discount code is PFD — 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Direct Funded Trader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Direct Funded Trader deal: 50% Off All Accounts
+## Latest Direct Funded Trader deal: Turbo Challenge at $0 Upfront
 
-- Published: 2026-11-19
+- Published: 2026-11-24
 - Offer ends: Limited time
-- Offer: 50% off
-- Scope: All Accounts
+- Offer: $0 Entry
+- Scope: Turbo Challenge, All Sizes
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Direct Funded Trader Deal Page](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/)
+- Deal page: [Direct Funded Trader Deal Page](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/)
 
 ## Direct Funded Trader Discount Code & Deals History FAQ
 
@@ -38,18 +38,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Direct Funded Trader deal?**
 
-**50% Off All Accounts** — published 2026-11-19. Offer ends: Limited time. The offer is 50% off.
+**Turbo Challenge at $0 Upfront** — published 2026-11-24. Offer ends: Limited time. The offer is $0 Entry.
 
 ---
 
 ## Direct Funded Trader Deals History
 
-Total deals tracked: **11**
+Total deals tracked: **12**
 
-### 2026 (6 deals)
+### 2026 (7 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-24 | Direct Funded Trader: Turbo Challenge at $0 Upfront | $0 Entry | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/) |
 | 2026-11-19 | Direct Funded Trader: 50% Off All Accounts | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/) |
 | 2026-11-05 | Direct Funded Trader: 100K 2-Step Evaluation for Only $99 | $99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) |
 | 2026-10-26 | Direct Funded Trader: 50% off Fast Funding and Evaluation, 40% off Instant | 40% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) |
